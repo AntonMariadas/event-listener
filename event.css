@@ -1,0 +1,16 @@
+.button {
+    border: 1px solid #ddd;
+    background-color: #fff;
+    padding: 16px;
+    font-size: 28px;
+}
+
+.button-red {
+    background-color: red;
+    color: #fff;
+}
+
+.div-speciale {
+    height: 200px;
+    width: 200px;
+}
